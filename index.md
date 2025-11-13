@@ -1,10 +1,1 @@
-# hello world
-## HI GITHUB
-
-
-
-
-
-
-
-I made 2 headers 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
